@@ -1,2 +1,2 @@
-# FrontendMentorChallenge_Attempts
-Attempts on Frontend Mentor Challenges
+# FrontendMentorChallenge001
+Design a qr code component
